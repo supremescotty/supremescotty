@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ0aWRscnEzNDVrem50bXdnZGx3cWs1bzEzcm9qOTdrOXMxODMwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif
+
 <!--
 **supremescotty/supremescotty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
