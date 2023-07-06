@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # About Me
 
-Hello there! 👋 I'm [Your Name], and I'm passionate about applying my skills in Applied Math and Computer Science to solve real-world problems. I hold a Bachelor of Science degree in Applied Math and a Master of Science degree in Computer Science.
+🔭 I go by Scotty, and I'm passionate about applying my skills in Applied Math and Computer Science to solve real-world problems. I hold a Bachelor of Science degree in Applied Math and a Master of Science degree in Computer Science.
 
 ## Skills
 
