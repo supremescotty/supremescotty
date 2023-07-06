@@ -9,7 +9,6 @@
     <img src="https://komarev.com/ghpvc/?username=supremescotty&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="langs" align="center">
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 
