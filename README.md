@@ -11,6 +11,7 @@
 
 <div id="langs" align="center">
 ### :hammer_and_wrench: Languages and Tools :
+<div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -24,6 +25,7 @@
 </div>
 
 <div id="stats" align="center">
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=supremescotty&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
