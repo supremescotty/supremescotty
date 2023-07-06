@@ -30,7 +30,6 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=supremescotty)](https://git.io/streak-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=supremescotty)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
