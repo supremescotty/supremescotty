@@ -58,7 +58,7 @@ Here are some of the skills and technologies I have experience with:
 
 - **SQL**: I am proficient in SQL and have utilized it extensively for data manipulation and database management tasks. Working with complex queries and optimizing database performance are areas I excel in.
 
-- **Programming Languages**: I have a strong foundation in several programming languages, including Python, Java, MATLAB, C, HTML, and R. These languages have been instrumental in my coursework, class projects, and personal endeavors.
+- **Programming Languages**: I have a strong foundation in several programming languages, including Python, Java, MATLAB, SQL, R, BASH Script, AI/ML, C, HTML, CSS, Javascript. These languages have been instrumental in my coursework, class projects, and personal endeavors.
 
 - **Tools and Applications**: I have hands-on experience with tools like Tableau and Python notebooks. Leveraging these tools, I have developed interactive visualizations, data analysis pipelines, and more.
 
