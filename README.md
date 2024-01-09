@@ -28,8 +28,6 @@
 
 
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=supremescotty)](https://git.io/streak-stats)
 
 
 <!--
@@ -76,7 +74,7 @@ Feel free to explore my repositories to get a better understanding of my work an
 ## Contact
 
 I'm always open to collaborating on exciting projects or discussing opportunities in the field. 
-- 📫 How to reach me: djrascotty1@yahoo.com
+- 📫 How to reach me: jscott30@hawk.iit.edu
 - 🌱 I’m currently looking for full-time employment remotely in the US and/or hybrid work in Europe
 
 
